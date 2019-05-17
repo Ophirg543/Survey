@@ -1,9 +1,11 @@
 channels:
   - conda-forge
-  - python-2.7
 dependencies:
   - appmode
   - numpy 
   - matplotlib
   - ipywidgets
   - IPython
+index.ipynb
+requirements.txt
+runtime.txt
