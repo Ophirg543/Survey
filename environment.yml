@@ -6,6 +6,4 @@ dependencies:
   - matplotlib
   - ipywidgets
   - IPython
-index.ipynb
-requirements.txt
-runtime.txt
+
