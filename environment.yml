@@ -7,3 +7,7 @@ dependencies:
   - ipywidgets
   - IPython
 
+name: python 2.7
+dependencies:
+  - python=2.7
+  - numpy
