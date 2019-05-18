@@ -5,3 +5,4 @@ dependencies:
   - numpy 
   - matplotlib
   - ipywidgets
+  - python=2.7
