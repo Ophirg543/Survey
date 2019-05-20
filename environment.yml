@@ -1,8 +1,8 @@
 channels:
   - conda-forge
 dependencies:
-  - appmode
   - numpy 
   - matplotlib
   - ipywidgets
   - python=2.7
+  - appmode
