@@ -21,7 +21,7 @@
     "\n",
     "\n",
     "\n",
-    "filename   = 'CIFAR 10 Test Batch-Copy1'\n",
+    "filename   = 'CIFAR_10_Test_Batch-Copy1'\n",
     "filename2 = 'Batch Names-Copy1'\n",
     "\n",
     "\n",
