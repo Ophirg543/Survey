@@ -1,8 +1,7 @@
 channels:
   - conda-forge
 dependencies:
-  - ipyvolume
-  - IPython.display
+  - IPython
   - pickle
   - appmode
   - python=2.7
