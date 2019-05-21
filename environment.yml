@@ -3,7 +3,6 @@ channels:
 dependencies:
   - ipyvolume
   - appmode
-  - python=2.7
   - numpy==1.16.1
   - matplotlib
   - ipywidgets
