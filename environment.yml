@@ -3,7 +3,8 @@ channels:
 dependencies:
   - appmode
   - python=2.7
-  - pickle
+  - pickleshare
+  - cloudpickle
   - IPython
   - numpy 
   - matplotlib
