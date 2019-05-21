@@ -6,6 +6,6 @@ dependencies:
   - pickleshare
   - cloudpickle
   - IPython
-  - numpy 
+  - numpy==1.16.1
   - matplotlib
   - ipywidgets
