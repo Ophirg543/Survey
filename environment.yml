@@ -1,10 +1,10 @@
 channels:
   - conda-forge
 dependencies:
-  - IPython
-  - pickle
   - appmode
   - python=2.7
+  - pickle
+  - IPython
   - numpy 
   - matplotlib
   - ipywidgets
