@@ -1,0 +1,4 @@
+IPython
+numpy==1.16.1
+matplotlib
+ipywidgets
