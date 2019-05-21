@@ -1,7 +1,6 @@
 channels:
   - conda-forge
 dependencies:
-  - ipyvolume
   - appmode
   - numpy==1.16.1
   - matplotlib
