@@ -2,7 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - python=2.7
-  - appmode
+  - appmode== 0.4.0
   - pickleshare
   - cloudpickle
   - IPython
