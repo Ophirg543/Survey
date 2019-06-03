@@ -5,6 +5,3 @@ dependencies:
   - numpy==1.16.1
   - matplotlib
   - ipywidgets
-  - echo "export SENDGRID_API_KEY='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'" > sendgrid.env
-  - echo "sendgrid.env" >> .gitignore
-  - source ./sendgrid.env
